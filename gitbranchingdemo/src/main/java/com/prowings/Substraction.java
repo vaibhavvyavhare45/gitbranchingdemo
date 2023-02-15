@@ -11,6 +11,7 @@ public class Substraction {
 		c=a-b;
 		System.out.println("substraction is: "+c);
 		//substraction is  success
+		//lookin for another method
 	}
 
 }
