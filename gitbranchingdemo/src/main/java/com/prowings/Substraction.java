@@ -10,6 +10,7 @@ public class Substraction {
 		b=sc.nextInt();
 		c=a-b;
 		System.out.println("substraction is: "+c);
+		//substraction is  success
 	}
 
 }
