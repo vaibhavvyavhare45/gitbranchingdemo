@@ -2,6 +2,7 @@ package com.prowings;
 
 import java.util.Scanner;
 
+//creating a class for substraction
 public class Substraction {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
